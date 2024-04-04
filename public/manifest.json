@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "T-shirt Configurator",
+  "name": "Demo ThreeJS with a t-shirt configurator",
   "icons": [
     {
       "src": "favicon.ico",
